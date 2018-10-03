@@ -68,17 +68,18 @@ header a:hover{
 /*Cabecera con imagen*/
 #cabecera{
 	min-height: 50px;
-	background: url("../img/verde.jpg" );
+	background: url("../img/conchagua.jpg" );
 	text-align: center;
-	color: #645F5F;
+	color: #fff;
 }
 #cabecera h1{
 	margin-top: 20px;
 	font-size: 30px;
-	margin-bottom: 10px;
+	margin-bottom: 100px;
 }
 #cabecera p{
 	font-size: 20px;
+	text-align: right;
 }
 
 /*Formulario boletín*/
@@ -142,4 +143,11 @@ footer{
 	color: #fff;
 	background-color: #1293d4;
 	text-align: center;
+}
+
+/*Logo*/
+.logo{
+	min-height: 50px;
+	text-align: center;
+	background-color: #fff;
 }
