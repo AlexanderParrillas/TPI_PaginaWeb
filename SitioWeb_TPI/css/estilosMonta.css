@@ -146,3 +146,13 @@ h5 {
 	font-size: 25px;
 	padding: 2px;
 }
+
+h6 {
+	color: #000;
+	text-align: center;
+	/*background: #bfb1ad;*/
+	background:  #79c6f9;
+	font-size: 25px;
+	padding: 2px;
+}
+
