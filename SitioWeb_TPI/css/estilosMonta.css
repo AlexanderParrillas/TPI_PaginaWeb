@@ -121,3 +121,19 @@ h2 {
 	line-height: 1.5; 
 	font: 30px;
 	/*vertical-align: text-top;*/ }
+.map {
+	justify-content: center;
+	margin:5px;
+	text-align: center;
+	padding: 2px;
+
+}
+
+h4 {
+	color: #000;
+	text-align: center;
+	/*background: #bfb1ad;*/
+	background:  #a96d3f;
+	font-size: 25px;
+	padding: 2px;
+}
