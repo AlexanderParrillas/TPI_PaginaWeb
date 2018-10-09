@@ -54,12 +54,16 @@ header li{
 	display: inline;
 	padding: 0 20px 0 20px;
 }
+
+header #logoprimero{
+	border-radius: 10%;
+}
 header #marca{
 	float: left;
 }
 header #marca h1{
 	margin: 0;
-	color:black;
+	color:green;
 
 }
 header nav{
@@ -68,7 +72,7 @@ header nav{
 	margin-top: 10px;
 }
 header .resaltado, header .actual a{
-	color: black;
+	color: green;
 	font-weight: bold;
 }
 header a:hover{
@@ -212,7 +216,7 @@ footer{
 .logo{
 	min-height: 50px;
 	text-align: center;
-	background-color: #fff;
+	background-color: #696969;
 }
 
 .conchagua{
