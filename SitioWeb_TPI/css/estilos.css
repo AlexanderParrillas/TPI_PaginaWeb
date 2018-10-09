@@ -269,6 +269,21 @@ h2{
 	text-align: center;
 }
 
+h3[data-lugar="Playa"]{
+color:green;
+}
+
+h3[data-lugar="Pueblos"]{
+color:blue;
+}
+
+h3[data-lugar="Volcanes y montañas"]{
+color:red;
+}
+
+h3[data-lugar="Balnearios"]{
+color:#C71585;
+}
 .galeria {
 	width: 90%;
 	margin: auto;
