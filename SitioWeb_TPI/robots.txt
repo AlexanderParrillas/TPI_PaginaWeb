@@ -1,1 +1,2 @@
-falta
+User-agent: *
+Sitemap: http://dondecaemossv.260mb.net/sitemap.xml
