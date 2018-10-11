@@ -1,0 +1,23 @@
+﻿sitio{
+      background : yellow;
+}
+titulo{
+       color: blue;
+       
+       font-size: 400%;
+}
+mensaje{
+       color: red;     
+       text-align: center;
+       display: block;
+       font-size: 300%;
+}
+informacion{
+       color: green;
+       text-align: justify;
+}
+destino{
+        color : red;
+        font-size: 150%;
+}
+       
